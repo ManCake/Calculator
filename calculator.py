@@ -22,6 +22,6 @@ def subtract (number_1, number_2):
 def multiply(number_1, number_2): 
     product = number_1 * number_2
     print("The product is:", product)
-
+    
 # Program Flow
 main()
